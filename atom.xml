@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-23T11:21:44.017Z</updated>
+  <updated>2018-01-08T06:45:46.923Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new posting from Frank</title>
+    <link href="http://yoursite.com/2018/01/08/new-posting-from-Frank/"/>
+    <id>http://yoursite.com/2018/01/08/new-posting-from-Frank/</id>
+    <published>2018-01-08T06:43:27.000Z</published>
+    <updated>2018-01-08T06:45:46.923Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;2017年最值得推荐的十本书&quot;&gt;&lt;a href=&quot;#2017年最值得推荐的十本书&quot; class=&quot;headerlink&quot; title=&quot;2017年最值得推荐的十本书&quot;&gt;&lt;/a&gt;2017年最值得推荐的十本书&lt;/h1&gt;&lt;h2 id=&quot;1-《人性的枷锁》&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="阅读" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello Blog</title>
